@@ -9,7 +9,7 @@
       background-color: #4CAF50;
     
       color: white;
-      padding: 5px;
+      padding: 3px;
       text-align: center;
     }
 
@@ -17,6 +17,7 @@
       background: #4CAF50;
       border-radius: 6px;
       border-color: whitesmoke;
+      
     }
 
     h2 {
